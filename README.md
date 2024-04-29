@@ -14,10 +14,7 @@ es totalmente responsivo
 ![nav](Capturas_de_pantalla/Nav.png)
 
 # Codigo de estrenos, consumo de api y maquetacion
-![estrenos](Capturas_de_pantalla/Estrenos.png)
-
-# Codigo de lista de peliculas, consumo de api y maquetacion
-![lista](Capturas_de_pantalla/Estrenos.png)
+![estrenos](Capturas_de_pantalla/Estrenos1.png)
 
 # Codigo de lista de peliculas, consumo de api y maquetacion
 ![lista](Capturas_de_pantalla/Lista.png)
