@@ -1,0 +1,29 @@
+body{
+    height: 100%;
+    margin:0;
+ 
+}
+
+.contenedor{
+    display: grid;
+    grid-template-columns: 3fr 7fr;
+    height: 100vh;
+    
+}
+
+.seccion1, .seccion2{
+ 
+    box-sizing: border-box;
+}
+.seccion2{
+ 
+    margin-left: 10px;
+}
+@media (max-width: 600px) {
+    .seccion1{
+ 
+        display: none;
+    }
+}
+
+
