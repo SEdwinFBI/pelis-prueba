@@ -61,9 +61,9 @@ const Table = () => {
                         )
                     }
                     <tr >
-                        <th scope="row">5</th>
+                        <th scope="row">6</th>
                         <td>Guerra civil</td>
-                        <td><a href='https://doodstream.com/e/d0xcp44uk5f2'><button className='btn btnColor'>ir</button></a></td>
+                        <td><a href='https://streamwish.to/e/9ag1ieia5an6s'><button className='btn btnColor'>ir</button></a></td>
 
                     </tr>
                     <tr >
