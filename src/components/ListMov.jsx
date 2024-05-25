@@ -32,7 +32,7 @@ const ListMov = () => {
     return (
         <>
             <div className="lista" style={{ textAlign: "center" }}>Accion  </div>
-            <section className='row row-cols-1 row-cols-md-3 ' style={{ width:"100%" }}>
+            <section className='row row-cols-1 row-cols-md-3 ' style={{ width: "100%" }}>
                 {
                     pelis.map((pelicula) => (//injectar las peliculas
 
@@ -40,7 +40,7 @@ const ListMov = () => {
 
 
                             <div className="" style={{ width: "16rem", marginTop: "10px" }}>
-                                <img src={`https://image.tmdb.org/t/p/w500/${pelicula.backdrop_path}`} className="card-img-top" alt="Img" style={{ height: "100%", objectFit: "cover", borderRadius:"10px"}} />
+                                <img src={`https://image.tmdb.org/t/p/w500/${pelicula.backdrop_path}`} className="card-img-top" alt="Img" style={{ height: "100%", objectFit: "cover", borderRadius: "10px" }} />
 
                                 <h5 className='card-title' style={{ fontSize: "10px", fontWeight: "900" }}>{pelicula.title}</h5>
                                 <p className="card-text" style={{ fontSize: "10px" }}>{"Estreno: " + pelicula.release_date}</p>

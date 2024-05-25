@@ -30,7 +30,14 @@ export const listCar = [
         Sinopsis: "",
         img: "https://depor.com/resizer/9a6RUyyEBIs72KZ0JadtLS80gPo=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/CP66BJBSBJA5RNBANHBJBHU3WM.jpg",
         vid: "https://streamwish.to/e/aw7chthc7ybn",
-    }
+    },
+    {
+        id: 5,
+        Nombre: "Atlas",
+        Sinopsis: "",
+        img: "https://www.channelguidemag.com/wp-content/uploads/2024/05/AtlasBB-678x381.jpg",
+        vid: "https://streamwish.to/e/e1x6y2t0d3g8",
+    },
 ]
 const Carrusel = () => {
 
@@ -39,7 +46,7 @@ const Carrusel = () => {
             <div id="carouselExampleAutoplaying" className="carousel slide " data-bs-ride="carousel">
                 <div className="carousel-inner">
                     <div className="carousel-item active ">
-                        <a href="https://doodstream.com/e/d0xcp44uk5f2"><img src="https://nacaomultiversal.com.br/wp-content/uploads/2024/04/civilwar.jpeg" className="img-cover" alt="..." />
+                        <a href="https://streamwish.to/e/9ag1ieia5an6"><img src="https://nacaomultiversal.com.br/wp-content/uploads/2024/04/civilwar.jpeg" className="img-cover" alt="..." />
                             <div className="carousel-caption  d-md-block">
                                 <h5>Guerra Civil</h5></div>
                         </a>
